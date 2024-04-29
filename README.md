@@ -40,7 +40,9 @@ brew install thonny
 
 Start Thonny...
 
-Somewhere I managed to install (flash) the Micropython but cannot remember how. However, it worked seamlessly right out of the box.
+I used [Raspberry Pi Pico: Erste Schritte](https://www.elektronik-kompendium.de/sites/raspberry-pi/2612191.htm) ...
+
+Flash (Install) the micropython on the PICO with Thonny. It's n the interpreter config page.
 
 Configure the interpreter for remote execution on the Pico. In my case, it works flawlessly with the auto-detection of the Pico.
 
@@ -54,6 +56,8 @@ I followed some LED and buzzer documentation. Here is my setup on the breadboard
 
 Some of the modified code for later reference is in the repository.
 
+For some first ideas about the wiring you can follow: [Getting started with Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico).
+
 ## Troubleshooting
 
 Problems and errors during the setup are documented here.
@@ -65,6 +69,10 @@ Problems and errors during the setup are documented here.
 The PinOut taken from the [Raspberry Pi Pico W Official Documentation](https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf)
 
 ![The pinout of the Pico W Rev3 board](<The pinout of the Pico W Rev3 board.png>)### Links- [Thonny](https://thonny.org)- [Getting started with Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico)
+
+### More Links
+
+- [Getting started with Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico)
 
 ## Contributing
 

@@ -1,3 +1,6 @@
+# First steps: https://www.elektronik-kompendium.de/sites/raspberry-pi/2612191.htm
+# Blinking LEDs: https://www.elektronik-kompendium.de/sites/raspberry-pi/2612021.htm
+
 from machine import Pin, PWM
 from time import sleep
 
