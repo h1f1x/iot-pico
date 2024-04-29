@@ -77,6 +77,7 @@ The PinOut taken from the [Raspberry Pi Pico W Official Documentation](https://d
 ### More Links
 
 - [Getting started with Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico)
+- [picozero library](https://picozero.readthedocs.io/en/latest/)
 
 ## Contributing
 
