@@ -58,6 +58,10 @@ Some of the modified code for later reference is in the repository.
 
 For some first ideas about the wiring you can follow: [Getting started with Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico).
 
+### How to run
+
+Independent code execution. Upload any code as `main.py`. Read: [Power your Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/9)
+
 ## Troubleshooting
 
 Problems and errors during the setup are documented here.
